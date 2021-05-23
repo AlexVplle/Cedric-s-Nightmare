@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Door
+comment0.text=\r\n\ This\ class\ is\ used\ to\ create\ the\ doors\r\n\ @author\ Alexis\ Vapaille\r\n\ @version\ 2021.04.29\r\n
+comment1.params=pKey
+comment1.target=Door(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ Door\r\n\ @param\ pKey\ String\ to\ open\ the\ door\r\n
+comment2.params=
+comment2.target=java.lang.String\ getKey()
+comment2.text=\r\n\ Assesors\ to\ get\ the\ door's\ key\r\n\ @return\ String\ door's\ key\r\n
+numComments=3

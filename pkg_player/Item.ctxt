@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ This\ class\ is\ used\ to\ create\ the\ items\r\n\ @author\ Alexis\ Vapaille\r\n\ @version\ 2020.03\r\n
+comment1.params=pName\ pWeight\ pDescription
+comment1.target=Item(java.lang.String,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ item\r\n\ @param\ pName\ \ \ \ \ \ \ \ Item's\ name\r\n\ @param\ pWeight\ \ \ \ \ \ Item's\ weight\r\n\ @param\ pDescription\ item's\ Description\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Assessor\ to\ get\ item's\ name\r\n\ @return\ return\ the\ item's\ name\r\n
+comment3.params=
+comment3.target=int\ getWeight()
+comment3.text=\r\n\ Assessor\ to\ get\ item's\ weight\r\n\ @return\ return\ the\ item's\ weight\r\n
+comment4.params=
+comment4.target=java.lang.String\ getDescription()
+comment4.text=\r\n\ Assessor\ to\ get\ item's\ description\r\n\ @return\ return\ the\ item's\ description\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Use\ to\ print\ a\ special\ description\r\n\ @return\ return\ description's\ string\r\n
+numComments=6

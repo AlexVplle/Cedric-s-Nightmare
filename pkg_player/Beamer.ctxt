@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Beamer
+comment0.text=\r\n\ This\ class\ is\ some\ kind\ of\ item\ allowing\ teleporting\r\n\ @author\ Alexis\ Vapaille\r\n\ @version\ 2021.04.29\r\n
+comment1.params=pWeight\ pDescription
+comment1.target=Beamer(int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ Beamer\r\n\ @param\ pWeight\ beamer's\ weight\r\n\ @param\ pDescription\ beamer's\ description\r\n
+comment2.params=
+comment2.target=pkg_room.Room\ getRoomCharged()
+comment2.text=\r\n\ Assessors\ to\ get\ the\ room\ charged\r\n\ @return\ Room\ charged\ in\ the\ beamer\r\n
+comment3.params=pRoomCharged
+comment3.target=void\ setRoomCharged(pkg_room.Room)
+comment3.text=\r\n\ Mutator\ to\ set\ the\ room\ charged\r\n\ @param\ pRoomCharged\ new\ room\ charged\ in\ the\ beamer\r\n
+numComments=4

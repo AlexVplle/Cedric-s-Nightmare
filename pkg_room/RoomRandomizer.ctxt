@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RoomRandomizer
+comment0.text=\r\n\ This\ class\ is\ used\ to\ randomize\ a\ room\r\n\ @author\ Alexis\ Vapaille\r\n\ @version\ 2021.04.29\r\n
+comment1.params=
+comment1.target=RoomRandomizer()
+comment1.text=\r\n\ Constructor\ for\ RoomRandomizer\r\n
+comment2.params=pTabRoom\ pSavedRoom
+comment2.target=Room\ findRandomRoom(Room[],\ Room)
+comment2.text=\r\n\ Used\ to\ randomize\ a\ room\r\n\ @param\ pTabRoom\ Room[]\ containing\ the\ rooms\ where\ it\ is\ possible\ \r\n\ @param\ pSavedRoom\ Room\ saved\ for\ the\ command\ alea\ \r\n\ @return\ Room\ random\ room\r\n
+numComments=3

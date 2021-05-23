@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MovingPerson
+comment0.text=\r\n\ This\ class\ is\ used\ to\ create\ moving\ characters\r\n
+comment1.params=pText\ pName\ pTabRoom
+comment1.target=MovingPerson(java.lang.String,\ java.lang.String,\ Room[])
+comment1.text=\r\n\ Constructor\ for\ MovingPerson\r\n\ @param\ pText\ String\ for\ the\ text\ displayed\ when\ the\ player\ talk\ him\r\n\ @param\ pName\ String\ for\ name's\ moving\ character\r\n\ @param\ pTabRoom\ Array\ containing\ rooms\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Assessor\ for\ name's\ moving\ character\r\n\ @return\ String\ name's\ moving\ character\r\n
+comment3.params=
+comment3.target=Room\ getCurrentRoom()
+comment3.text=\r\n\ Assessor\ for\ current\ room's\ moving\ character\r\n\ @return\ Room\ current\ room's\ moving\ character\r\n
+comment4.params=
+comment4.target=int\ getHealthPoint()
+comment4.text=\r\n\ Assessor\ for\ health\ point's\ moving\ person\r\n\ @return\ health\ point's\ moving\ person\r\n
+comment5.params=pTabRoom
+comment5.target=void\ setCurrentRoom(Room[])
+comment5.text=\r\n\ Mutator\ for\ current\ room's\ moving\ character\r\n\ @param\ pTabRoom\ Array\ containing\ rooms\r\n
+comment6.params=pHealthPoint
+comment6.target=void\ setHealthPoint(int)
+comment6.text=\r\n\ Mutator\ for\ health\ point's\ moving\ person\r\n\ @param\ pHealthPoint\ Health\ point\ removed\r\n
+numComments=7

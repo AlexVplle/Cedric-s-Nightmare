@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ This\ class\ is\ used\ to\ create\ person\r\n
+comment1.params=pText
+comment1.target=Person(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ Person\r\n\ @param\ pText\ String\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getText()
+comment2.text=\r\n\ Assessor\ for\ the\ text\ displayed\ when\ the\ player\ talk\ him\r\n\ @return\ String\ for\ the\ text\ displayed\ when\ the\ player\ talk\ him\r\n
+numComments=3

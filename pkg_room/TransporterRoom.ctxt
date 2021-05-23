@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TransporterRoom
+comment0.text=\r\n\ This\ class\ is\ some\ kind\ of\ room\ that\ teleport\ the\ player\ when\ he\ left\ it\r\n
+comment1.params=pDescription\ pImage
+comment1.target=TransporterRoom(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ TransporterRoom\r\n\ @param\ pDescription\ String\ containing\ the\ transporter\ room's\ description\r\n\ @param\ pImage\ String\ used\ for\ the\ image\r\n
+comment2.params=pDescription\ pTabRoom\ pSavedRoom
+comment2.target=Room\ getExit(java.lang.String,\ java.util.HashMap,\ Room)
+comment2.text=\r\n\ Assesors\ to\ get\ the\ random\ room\ \r\n\ @param\ pDescription\ String\ useless\r\n\ @param\ pTabRoom\ HashMap\ containing\ rooms\r\n\ @param\ pSavedRoom\ Room\ saved\ for\ the\ command\ alea\r\n\ @return\ Return\ the\ random\ room\ \r\n
+numComments=3
