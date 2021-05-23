@@ -1,0 +1,13 @@
+take sword
+go east
+go north
+take green_key
+go south
+go down
+go down
+go east
+go north
+take red_key
+go south
+go east
+talk mum
