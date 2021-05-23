@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ItemList
+comment0.text=\r\n\ This\ class\ is\ used\ to\ create\ an\ HashMap\ and\ associated\ methods\ to\ manage\ Items\ in\ the\ inventory\ and\ in\ the\ rooms.\r\n\ @author\ Alexis\ Vapaille\r\n\ @version\ 2021.04.11\r\n
+comment1.params=
+comment1.target=ItemList()
+comment1.text=\r\n\ Constructor\ for\ ItemList\r\n
+comment2.params=pItemString
+comment2.target=pkg_player.Item\ getItem(java.lang.String)
+comment2.text=\r\n\ Assesors\ to\ get\ the\ item\ according\ to\ the\ String\r\n\ @param\ pItemString\ String\ giving\ the\ desired\ item\r\n\ @return\ Return\ the\ item\ corresponding\ to\ the\ String\r\n
+comment3.params=
+comment3.target=java.util.HashMap\ getItemHashMap()
+comment3.text=\r\n\ Assesors\ to\ get\ the\ item's\ HashMap\r\n\ @return\ Return\ the\ item's\ HashMap\r\n
+comment4.params=
+comment4.target=java.lang.String\ getItemsString()
+comment4.text=\r\n\ Assesors\ to\ get\ the\ room's\ items\r\n\ @return\ Return\ String\ with\ the\ items\ in\ the\ room\r\n
+comment5.params=pItemString\ pItem
+comment5.target=void\ addItem(java.lang.String,\ pkg_player.Item)
+comment5.text=\r\n\ Mutator\ to\ set\ the\ item\ according\ to\ the\ String\ \r\n\ @param\ pItemString\ The\ desired\ itemString\r\n\ @param\ pItem\ \ Item\ desired\r\n
+comment6.params=pItemRemove
+comment6.target=void\ removeItem(java.lang.String)
+comment6.text=\r\n\ Use\ to\ remove\ an\ item\ from\ HashMap\r\n\ @param\ pItemRemove\ Item\ that\ will\ be\ removed\r\n
+comment7.params=pItemSearched
+comment7.target=boolean\ itemPresent(java.lang.String)
+comment7.text=\r\n\ Use\ to\ know\ if\ an\ item\ is\ in\ the\ HashMap\r\n\ @param\ pItemSearched\ Item\ searched\r\n\ @return\ boolean\ equals\ true\ if\ item\ searched\ is\ in\ the\ HashMap\r\n
+numComments=8
